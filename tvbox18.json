@@ -2,6 +2,12 @@
   "spider": "https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33",
   "lives": [
     {
+      "name": "黄豆短剧",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.m3u",
+      "epg": ""
+    },
+    {
       "name": "直播ipv6",
       "type": "0",
       "pass": true,
@@ -11,6 +17,24 @@
     }
   ],
   "sites": [
+    {
+      "key": "site_1785566160059",
+      "name": "🔞火速",
+      "type": 1,
+      "api": "https://api.huosuapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1785567019251",
+      "name": "🔞嘿嘿",
+      "type": 1,
+      "api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "J91",
       "name": "\uD83D\uDD1E 91 | 珍惜",
