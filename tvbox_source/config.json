@@ -1,0 +1,27 @@
+{
+  "sites": [
+    {
+      "key": "huangdou_drama",
+      "name": "黄豆短剧",
+      "type": 1,
+      "api": "./api/index.json",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "古装穿越",
+        "其他",
+        "都市情感",
+        "玄幻修仙",
+        "年代怀旧",
+        "都市爽文",
+        "悬疑惊悚"
+      ]
+    }
+  ],
+  "rules": [],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "ads": []
+}
