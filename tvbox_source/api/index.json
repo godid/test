@@ -3,37 +3,37 @@
     {
       "type_id": 1,
       "type_name": "古装穿越",
-      "api": "https://gh-proxy.com/https://github.com/godid/test/raw/master/tvbox_source/api/cat_1.json"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/tvbox_source/api/cat_1.json"
     },
     {
       "type_id": 2,
       "type_name": "悬疑惊悚",
-      "api": "https://gh-proxy.com/https://github.com/godid/test/raw/master/tvbox_source/api/cat_2.json"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/tvbox_source/api/cat_2.json"
     },
     {
       "type_id": 3,
       "type_name": "都市情感",
-      "api": "https://gh-proxy.com/https://github.com/godid/test/raw/master/tvbox_source/api/cat_3.json"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/tvbox_source/api/cat_3.json"
     },
     {
       "type_id": 4,
       "type_name": "玄幻修仙",
-      "api": "https://gh-proxy.com/https://github.com/godid/test/raw/master/tvbox_source/api/cat_4.json"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/tvbox_source/api/cat_4.json"
     },
     {
       "type_id": 5,
       "type_name": "年代怀旧",
-      "api": "https://gh-proxy.com/https://github.com/godid/test/raw/master/tvbox_source/api/cat_5.json"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/tvbox_source/api/cat_5.json"
     },
     {
       "type_id": 6,
       "type_name": "都市爽文",
-      "api": "https://gh-proxy.com/https://github.com/godid/test/raw/master/tvbox_source/api/cat_6.json"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/tvbox_source/api/cat_6.json"
     },
     {
       "type_id": 7,
       "type_name": "其他",
-      "api": "https://gh-proxy.com/https://github.com/godid/test/raw/master/tvbox_source/api/cat_7.json"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/tvbox_source/api/cat_7.json"
     }
   ]
 }

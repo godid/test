@@ -3,7 +3,7 @@
 ## 使用方法
 
 1. 将本目录上传到任意静态托管平台（Cloudflare Pages、GitHub Pages、Nginx、Vercel 等）
-2. 修改 `config.json` 和所有 json 文件中的 `https://gh-proxy.com/https://github.com/godid/test/raw/master/tvbox_source` 为你的实际域名
+2. 修改 `config.json` 和所有 json 文件中的 `https://ghproxy.net/https://raw.githubusercontent.com/godid/test/master/tvbox_source` 为你的实际域名
 3. 在 TVBox 中导入配置地址：`https://你的域名/config.json`
 
 ## 目录结构

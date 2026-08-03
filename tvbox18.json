@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/raw/main/jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/jar/custom_spider.jar;md5;5bfb9c86dc5ebd60fa91c2751f1cfa33",
   "lives": [
     {
       "name": "黄豆短剧",
